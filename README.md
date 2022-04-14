@@ -66,11 +66,6 @@ beta.prob_lower_than_constant(0.8, "Variant 1")
 
 
 ```python
-
-```
-
-
-```python
 beta.prob_lower_than_constant(0.35, "Control")
 ```
 
